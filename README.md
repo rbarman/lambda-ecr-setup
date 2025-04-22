@@ -4,6 +4,16 @@
 
 Long term goal is to automate and leverage [powertools](https://docs.powertools.aws.dev/lambda/python/latest/)
 
+# Automated (in progress)
+
+terraform apply
+
+./deploy.sh LOCAL
+
+./deploy.sh ECR
+
+# Manual
+
 ## General
 
 Suppose:
