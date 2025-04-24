@@ -11,7 +11,13 @@ Suppose:
 * Account id is `99999999`
 
 
-## Local
+## Local Dev
+
+1) python3 -m venv venv
+2) source venv/bin/activate
+3) pip3 install -r requirements.txt
+
+## Local Docker
 
 1) Create Dockerfile
 2) Put environment variables in .env file
