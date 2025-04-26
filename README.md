@@ -1,3 +1,10 @@
+Pivoting to use AWS SAM CLI and Lambda Powertools. Personal template: https://github.com/rbarman/sam-lambda-function-url
+
+
+
+-----
+
+
 # README
 
 [manual] Steps I currently use to deploy lambda functions with docker images
